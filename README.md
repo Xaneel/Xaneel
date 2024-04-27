@@ -1,6 +1,6 @@
 # <p align="center">Hi there! 🧑‍💻 I'm Angel Matos Ortiz</p>
 
-### <span align="center">An in-growth cybersecurity professional from the Dominican Republic</span>
+### <p align="center">An in-growth cybersecurity professional from the Dominican Republic</p>
 
 I am driven by learning new stuff and helping others, as well as orienting them in ways to protect their privacy. Furthermore, I am passionate about cybersecurity and the technology field in general, making analyses and seeking growth.
 
