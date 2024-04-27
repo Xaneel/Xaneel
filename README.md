@@ -2,7 +2,7 @@
 
 ### <p align="center">An in-growth cybersecurity professional from the Dominican Republic</p>
 
-I am driven by learning new stuff and helping others, as well as orienting them in ways to protect their privacy. Furthermore, I am passionate about cybersecurity and the technology field in general, making analyses and seeking growth.
+<p align="center">I am driven by learning new stuff and helping others, as well as orienting them in ways to protect their privacy. Furthermore, I am passionate about cybersecurity and the technology field in general, making analyses and seeking growth.</p>
 
 <!--
 **Xaneel/Xaneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
