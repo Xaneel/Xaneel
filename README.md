@@ -1,4 +1,4 @@
-# <p align="center">Hi there! 🧑‍💻 I'm Angel Matos Ortiz</p>
+# <p align="center">Hi there! 🧑‍💻 I'm Angel</p>
 
 ### <p align="center">An in-growth cybersecurity professional from the Dominican Republic</p>
 
